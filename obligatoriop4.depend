@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1511529553 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\autor.cpp
+
+1511533907 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\autores.cpp
+	"Autores.h"
+
+1511536582 c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\autores.h
+	"Autor.h"
+
+1511650342 c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\autor.h
+	"String.h"
+
+1511529802 c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\string.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1511529598 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\escolar.cpp
+
+1511541172 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\fecha.cpp
+	"Fecha.h"
+
+1511541133 c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\fecha.h
+
+1511529657 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\libros.cpp
+
+1353754660 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\main.cpp
+	<iostream>
+
+1511529566 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\novela.cpp
+
+1511529837 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\string.cpp
+	"String.h"
+
+1511529579 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\texto.cpp
+
+1511650178 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\iteradorautores.cpp
+
+1511650145 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\iteradorlibros.cpp
+
+1511657024 source:c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\libro.cpp
+	"Libro.h"
+
+1511657513 c:\users\pablo\documents\sonia\prog 4\obligatoriop4\obligatoriop4\libro.h
+	"String.h"
+	"Fecha.h"
+
+1511529554 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\autor.cpp
+
+1511533908 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\autores.cpp
+	"Autores.h"
+
+1511536584 c:\users\sonia\documents\ude\prog 4\obligatoriop4\autores.h
+	"Autor.h"
+
+1511650344 c:\users\sonia\documents\ude\prog 4\obligatoriop4\autor.h
+	"String.h"
+
+1511744050 c:\users\sonia\documents\ude\prog 4\obligatoriop4\string.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1511529600 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\escolar.cpp
+
+1511541174 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\fecha.cpp
+	"Fecha.h"
+
+1511541134 c:\users\sonia\documents\ude\prog 4\obligatoriop4\fecha.h
+
+1511657026 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\libro.cpp
+	"Libro.h"
+
+1511657514 c:\users\sonia\documents\ude\prog 4\obligatoriop4\libro.h
+	"String.h"
+	"Fecha.h"
+
+1511745416 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\libros.cpp
+	"Libros.h"
+
+1511745958 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\main.cpp
+	"menu.h"
+
+1511529568 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\novela.cpp
+
+1511746154 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\string.cpp
+	"String.h"
+
+1511657944 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\texto.cpp
+	"Texto.h"
+
+1511657026 c:\users\sonia\documents\ude\prog 4\obligatoriop4\texto.h
+	"Libro.h"
+
+1511740241 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\menu.cpp
+	"menu.h"
+
+1511746496 c:\users\sonia\documents\ude\prog 4\obligatoriop4\menu.h
+	"Autores.h"
+	"Libros.h"
+	"TipoError.h"
+	"String.h"
+	<cstdlib>
+
+1511745699 c:\users\sonia\documents\ude\prog 4\obligatoriop4\libros.h
+	"Libro.h"
+	"Texto.h"
+	"Escolar.h"
+	"Novela.h"
+
+1511740006 c:\users\sonia\documents\ude\prog 4\obligatoriop4\escolar.h
+	"Texto.h"
+
+1511536584 c:\users\sonia\documents\ude\prog 4\obligatoriop4\novela.h
+	"Libro.h"
+	"Autor.h"
+
+1511745080 source:c:\users\sonia\documents\ude\prog 4\obligatoriop4\capalogica.cpp
+	"CapaLogica.h"
+
+1511745060 c:\users\sonia\documents\ude\prog 4\obligatoriop4\capalogica.h
+	"TipoError.h"
+	"Libros.h"
+
+1511744906 c:\users\sonia\documents\ude\prog 4\obligatoriop4\tipoerror.h
+
